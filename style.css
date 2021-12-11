@@ -1,0 +1,30 @@
+body {
+    background: pink;
+  }
+  
+  canvas {
+    border: 2px solid orange;
+    padding: 1px;
+    height: 300px;
+  }
+  
+  input {
+    font-family: Times;
+    font-size: 15px;
+  }
+  
+  h3 {
+    font-family: Times, Times New Roman, serif;
+    color: brown;
+  }
+  
+  .button {
+    border-radius: 5px;
+  }
+  
+  hr{
+    width: 240px;
+    text-align: left;
+    margin-left: 0;
+    border-top: 2px dashed #000;
+  }
